@@ -1,0 +1,1 @@
+copy and paste the contents of a 15 color hex file into palette.txt and run the script in an IDE or somewhere where you can acess the output of "print". copy all lines of the output. go to makecode arcade switch to js/python and click on pxt.json edit as text and paste the output over the lines 20-34. might not have explained that well so sorry.
